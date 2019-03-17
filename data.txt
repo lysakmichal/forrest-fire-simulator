@@ -1,0 +1,6 @@
+init_fire_size=16000
+random_fire_chance=100
+ash_after=1
+effectiveness=0
+chance_to_ignite=50
+time_interval=100
